@@ -1,2 +1,2 @@
 # routingAPI
-API for generating safe and efficient routes along a network with height and weight restrictions
+API for generating safe and efficient routes along a network with height and weight restrictions.  Leverages PostGIS and pgRouting.
