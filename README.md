@@ -1,2 +1,2 @@
 # routingAPI
-This is an API for generating safe and compliant routes along a Truck Route network with height and weight restrictions.  A routing dataset was developed using PostGIS which identifies all truck routes and all height and weight restrictions on truck routes in Metro Vancouver.
+This is an API for generating safe and compliant routes along a Truck Route network with height and weight restrictions.  A routing dataset was developed using PostGIS which identifies all truck routes and all height and weight restrictions on truck routes in Metro Vancouver.  pgRouter and various other PostGIS queries are used to calculate a safe and compliant route based on the users parameters (start point, end point, vehicle height, vehicle weight).
